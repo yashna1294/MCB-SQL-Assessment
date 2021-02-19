@@ -1,0 +1,4 @@
+set SERVEROUTPUT ON; 
+begin
+X_QUES5(); 
+end;
